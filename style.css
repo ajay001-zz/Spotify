@@ -51,7 +51,16 @@ nav ul li{
     background-color: black;
     color: white;
     bottom: 0;
+    flex-direction: column;
+    
 }
+.icons{
+    margin-top: 32px;
+}
+.icons i{
+    cursor: pointer;
+}
+
 #myProgressBar{
     width: 80vw;
     text-align: center;
