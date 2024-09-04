@@ -9,7 +9,6 @@ let gif = document.getElementById('gif');
 
 
 
-
 let songs=[
     {songName:"Let me love you", filePath:"songs/1.mp3", coverPath:"covers/1.jpg"},
     {songName: "Trap", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
